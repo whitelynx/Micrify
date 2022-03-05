@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Micrify</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="light_button">Light</string>
+    <string name="capture_button">Capture</string>
+    <string name="permission_required">Camera access is required to show the… camera.</string>
+    <string name="ok">OK</string>
+</resources>
